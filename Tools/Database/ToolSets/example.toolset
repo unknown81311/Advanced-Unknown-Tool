@@ -1,0 +1,27 @@
+{
+   "toolList" : [
+      {
+         "name" : "builder",
+         "previewRenderable" : "$GAME_DATA/Character/Char_Tools/Char_smallhammer/char_smallhammer_tp.rend",
+         "previewRotation" : [ 0, 0, -1, -1, 0, 0, 0, 1, 0 ],
+         "script" : {
+            "class" : "builder",
+            "data" : {},
+            "file" : "$CONTENT_DATA/Scripts/tools/builder.lua"
+         },
+         "uuid" : "10f62e12-1332-40b6-a0b0-d22452a86c7f"
+      },
+      {
+         "autoTool" : true,
+         "name" : "invalid joint detector",
+         "previewRenderable" : "$GAME_DATA/Character/Char_Tools/char_connecttool_preview.rend",
+         "previewRotation" : [ 1, 0, 0, 0, 0, -1, 0, 1, 0 ],
+         "script" : {
+            "class" : "detector",
+            "data" : {},
+            "file" : "$CONTENT_DATA/Scripts/tools/invalidDetector.lua"
+         },
+         "uuid" : "c2823b53-f4e9-4270-b76e-d2c918f46754"
+      }
+   ]
+}

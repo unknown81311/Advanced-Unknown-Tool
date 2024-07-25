@@ -1,0 +1,20 @@
+{
+   "partList" : [
+      {
+         "box" : {
+            "x" : 1,
+            "y" : 1,
+            "z" : 1
+         },
+         "physicsMaterial" : "Default",
+         "renderable" : "$GAME_DATA/Objects/Renderable/Interactive/obj_interactive_logicgate.rend",
+         "rotationSet" : "Default",
+         "scripted" : {
+            "classname" : "lock",
+            "filename" : "$CONTENT_DATA/Scripts/interactables/lock.lua"
+         },
+         "showInInventory" : false,
+         "uuid" : "dc0790e3-4599-4057-b80f-27681caaa579"
+      }
+   ]
+}

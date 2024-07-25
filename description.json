@@ -1,0 +1,16 @@
+{
+   "allow_add_mods" : true,
+   "custom_icons" : true,
+   "dependencies" : [
+      {
+         "fileId" : 3106598997,
+         "localId" : "a2425879-2256-4b93-b0b8-f4f78b0ee144"
+      }
+   ],
+   "description" : "My new Mod",
+   "fileId" : 3172035028,
+   "localId" : "434595d5-6afb-40ea-822c-475a59725d22",
+   "name" : "Advanced Unknown Tool",
+   "type" : "Blocks and Parts",
+   "version" : 1
+}
